@@ -65,7 +65,7 @@ First make sur you have npm installed on your machine !
 
 ### Installation
 
-1. Get a free API Key at [Edamam](https://developer.edamam.com/edamam-recipe-api)
+1. Get a free API Key at [Marvel api](https://developer.marvel.com/)
 2. Clone the repo
    ```sh
    git clone https://github.com/yacine-21/Marvel-Api
