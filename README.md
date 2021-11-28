@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yacine/Marvel-Api">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel-Api_Logo.svg/800px-Marvel-Api_Logo.svg.png" alt="Logo" width="180" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/800px-Marvel_Logo.svg.png" alt="Logo" width="180" height="80">
   </a>
 
 ## MARVEL-Api
@@ -38,7 +38,7 @@
 
 This is a simple web app in react, fetching Data from an Marvel-Api API
 
-<img  src = "https://acegif.com/wp-content/gifs/gif-marvel-Api-53.gif" alt='gif'/>
+<img  src = "https://acegif.com/wp-content/gifs/gif-marvel-53.gif" alt='gif'/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
